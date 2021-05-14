@@ -119,7 +119,7 @@ steps:
     type: string
   - backend_specs:
       module_name: qequlacs.simulator
-      function_name: ForestSimulator
+      function_name: QulacsSimulator
   # - backend_specs: 
   #     module_name: qeforest.simulator
   #     function_name: ForestSimulator
